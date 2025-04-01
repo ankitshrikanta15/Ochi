@@ -14,7 +14,7 @@ const LandingPage = () => {
             initial={{ width: 0 }}
             animate={{ width: "9vw" }}
             transition={{ ease: [0.76, 0, 0.24, 1], duration: 1 }}
-            className="w-[9vw] h-[5.7vw] relative bg-red-500 mt-[0.8vw] rounded-md mr-[10px] overflow-hidden"
+            className="w-[9vw] h-[5.7vw] relative mt-[0.8vw] rounded-md mr-[10px] overflow-hidden"
           >
             <img
               className="h-full w-full object-cover"
